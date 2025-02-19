@@ -1,3 +1,5 @@
+## Projeto rodando
+https://amigo-secreto-beta-opal.vercel.app/
 # Desafio Amigo Secreto
 
 **Jogo do Amigo Secreto** utilizando JavaScript, os participantes são sorteados aleatoriamente através desse jogos. É possível 
